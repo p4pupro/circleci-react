@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            p4pupro & Kenelmita
+        This application has been created by p4pupro, to show the continuous integration (CI), with CircleCI - React - GitHub.
           </p>
           <a
             className="App-link"
