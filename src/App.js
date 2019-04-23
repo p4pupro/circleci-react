@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            GitHub Profile
+            GitHub p4pupro Profile
           </a>
         </header>
       </div>
